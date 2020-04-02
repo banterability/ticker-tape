@@ -1,0 +1,17 @@
+{
+  "name": "market-headlines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeff Long",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-html-parser": "^1.2.14",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  },
+  "scripts": {
+    "prettier": "prettier --write *.js"
+  }
+}
