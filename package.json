@@ -9,7 +9,7 @@
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.1.1"
+    "prettier": "^2.1.2"
   },
   "scripts": {
     "prettier": "prettier --write *.js"
