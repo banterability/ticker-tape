@@ -5,7 +5,7 @@
   "author": "Jeff Long",
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "node-html-parser": "^1.4.2",
+    "node-html-parser": "^1.4.6",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
