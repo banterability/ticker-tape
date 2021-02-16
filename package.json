@@ -6,7 +6,7 @@
   "dependencies": {
     "node-fetch": "^2.6.1",
     "node-html-parser": "^2.1.0",
-    "sqlite3": "^5.0.1"
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
