@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Jeff Long",
   "dependencies": {
-    "node-fetch": "^3.2.4",
+    "node-fetch": "^3.2.5",
     "node-html-parser": "^5.3.3",
     "sqlite3": "^5.0.8"
   },
